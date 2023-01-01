@@ -3,3 +3,5 @@ should import as expected upon the first execution. Please allow some time for t
 complete.
 
 The CSV files should remain in the same folder as the model.
+
+The model is stored in the 'Hate Speech Detection Model.ipynb' file.
